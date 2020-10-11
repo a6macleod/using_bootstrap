@@ -1,1 +1,26 @@
+/* Header section */
+.header {
+	background-color: blue;
+}
 
+/* Main content section */
+.main {
+	background-color: green;
+}
+.first {
+	background-color: red;
+}
+.second {
+	background-color: mistyrose;
+}
+
+/* Sidebar */
+.sidebar {
+	background-color: orange;
+}
+.article-subsections {
+	background-color: yellow;
+}
+.footer {
+	background-color: purple;
+}
