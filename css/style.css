@@ -1,6 +1,11 @@
+.container {
+	background-color: lightblue;
+}
+
 /* Header section */
 .header {
 	background-color: blue;
+	height: 100px;
 }
 
 /* Main content section */
@@ -12,6 +17,10 @@
 }
 .second {
 	background-color: mistyrose;
+}
+
+.third {
+	background-color: lavender;
 }
 
 /* Sidebar */
