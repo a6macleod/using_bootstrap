@@ -8,6 +8,12 @@
 	height: 100px;
 }
 
+.navbar-brand {
+	position: absolute;
+	left: 40%;
+	font-size: 50px;
+}
+
 /* Main content section */
 .main {
 	background-color: green;
