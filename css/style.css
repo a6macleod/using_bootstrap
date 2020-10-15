@@ -8,7 +8,7 @@
 }
 
 .main-header a {
-	color: #fff;
+	color: #fff !important;
 	font-weight: bold;
 }
 
@@ -21,7 +21,7 @@
 .main-header .subscribe {
 	background-color: #ffe400;
 	border-radius: 20px;
-	color: #242107;
+	color: #242107 !important;
 }
 
 .header-bottom a {
@@ -46,6 +46,10 @@ img {
 	max-height: 100%;
 }
 
+.culture-stories {
+	margin-top: ;
+}
+
 .culture-item img {
 	max-height: 170px;
 }
@@ -62,6 +66,24 @@ article {
 .summary {
 	font-size: 15px;
 	line-height: 20px;
+}
+
+.byline {
+	color: #555555;
+	font-weight: bold;
+}
+
+.byline span {
+	font-weight: normal;
+}
+
+.debate-bottom-border {
+	border-bottom: solid 4px #d9d9d9;
+	padding-bottom: 20px;
+}
+.debate-top-border {
+	border-top: solid 4px #d9d9d9;
+	/*padding-bottom: 20px;*/
 }
 
 .deco {
